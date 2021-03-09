@@ -1,4 +1,3 @@
-// test commit
 export default class Pokemon {
   constructor(name, type, moves) {
     this.name = name,
