@@ -1,17 +1,29 @@
 body {
     background-color: red;
 }
-
-.blue {
+.white {
     height: 75px;
     width: 75px;
     border-radius: 50%;
     border-style: solid;
-    border-width: 7px;
-    border-color: whitesmoke;
+    border-width: 2px;
+    border-color: black;
     display: inline-block;
     margin: 20px;
-    background-color: rgb(6, 201, 250);
+    background-color: white;
+}
+
+
+.blue {
+    height: 53px;
+    width: 53px;
+    border-radius: 50%;
+    border-style: solid;
+    border-width: 2px;
+    border-color: black;
+    display: inline-block;
+    margin: 15px;
+    background-color:rgb(6, 201, 250)
 }
 
 .red {
@@ -19,7 +31,7 @@ body {
     width: 20px;
     border-radius: 50%;
     border-style: solid;
-    border-width: 3px;
+    border-width: 2px;
     border-color: black;
     display: inline-block;
     margin: 15px;
@@ -31,7 +43,7 @@ body {
     width: 20px;
     border-radius: 50%;
     border-style: solid;
-    border-width: 3px;
+    border-width: 2px;
     border-color: black;
     display: inline-block;
     margin: 15px;
@@ -43,9 +55,17 @@ body {
     width: 20px;
     border-radius: 50%;
     border-style: solid;
-    border-width: 3px;
+    border-width: 2px;
     border-color: black;
     display: inline-block;
     margin: 15px;
     background-color: rgb(0, 184, 0);
+}
+
+.grey {
+    margin: auto;
+    width: auto;
+    height: 400px;
+    background-color: grey;
+
 }
