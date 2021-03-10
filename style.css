@@ -63,9 +63,10 @@ body {
 }
 
 .grey {
-    margin: auto;
-    width: auto;
-    height: 400px;
-    background-color: grey;
+    margin-top: 10px;
+    margin-left: 30px;
+    margin-right: 30px;
+    height: 500px;
+    background-color: rgb(165, 165, 165);
 
 }
