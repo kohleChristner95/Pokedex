@@ -35,7 +35,7 @@ body {
     border-color: black;
     display: inline-block;
     margin: 15px;
-    background-color: rgb(160, 1, 1);
+    background-color:rgb(212, 0, 0);
 }
 
 .yellow {
@@ -85,4 +85,21 @@ body {
     border-radius: 15px;
     background-color: white;
 
+}
+
+hr.border {
+    border: 3px solid black;
+    border-radius: 2px
+}
+
+hr.bottom {
+    border: 3px solid grey;
+    border-radius: 2px;
+}
+
+.inside {
+    position: relative;
+    margin-right: 30px;
+    width: 3px;
+    background: black;
 }
