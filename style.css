@@ -131,7 +131,5 @@ hr.middle {
 
 .scroll {
     overflow-y: auto;
-    background-color: white;
-    border-radius: 15px;
-    webkit
+    border-radius: 4px;
 }
