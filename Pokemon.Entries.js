@@ -1,6 +1,6 @@
 import pokemonArray from './Pokemon.obj.js'
 
-for (let i = 0; i < pokemonArray.length; i++) {
-    const element = array[i];
-    
+for (let index = 0; index < pokemonArray.length; index++) {
+    let entryNumber = index + 1;
+    console.log(entryNumber);
 }
