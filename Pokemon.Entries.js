@@ -2,9 +2,11 @@ import pokemonArray from './Pokemon.obj.js'
 
 let entry;
 
-for (let index = 0; index < pokemonArray.length; index++) {
-    entry = index + 1
-    console.log(entry);
-    console.log(document.getElementsById('pokemon-entry').textContent);
-    document.getElementsById('pokemon-entry').textContent = entry
-}
+let number = document.querySelector(".number");
+// console.log(number);
+
+number.textContent = 3
+// for(let i = 0; i < number.length; i++) {
+//     console.log(number[1]);
+//     number.textContent = (i+1)
+// }
