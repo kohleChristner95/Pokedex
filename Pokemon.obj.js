@@ -12,6 +12,6 @@ const Charmander = new Pokemon('Charmander', ['Fire'], ['Scratch', 'Ember']);
 const Charmeleon = new Pokemon('Charmeleon', ['Fire'], ['Slash', 'Ember', 'Fire Punch']);
 const Charizard = new Pokemon('Charizard', ['Fire'], ['Dragon Claw', 'Fly', 'Fire Blast', 'Flamethrower']);
 
-pokemonArray.push(Bulbasaur, Ivysaur, Squirtle, Wartortle, Blastoise, Charmander, Charmeleon, Charizard)
+pokemonArray.push(Bulbasaur, Ivysaur, Venasaur, Squirtle, Wartortle, Blastoise, Charmander, Charmeleon, Charizard)
 
 export default pokemonArray;
