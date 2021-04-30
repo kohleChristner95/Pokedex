@@ -206,3 +206,9 @@ hr.middle {
     border-radius: 4px;
 }
 
+img {
+    display: block;
+    margin: auto;
+    margin-top: 50px;
+    width: 50%;
+}
